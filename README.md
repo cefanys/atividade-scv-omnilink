@@ -9,4 +9,9 @@
     <td>Rodrigo Andrade</td>
     <td>Professor</td>
   </tr>
+  <tr>
+    <td>Cefanys</td>
+    <td>Aluno</td>
+  </tr>
+
 </table>
